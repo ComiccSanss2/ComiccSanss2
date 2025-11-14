@@ -90,7 +90,7 @@ Strong interest in Web, Mobile, and Game Dev
 ## Contact Me
 
 📧 **hbenalouane19@gmail.com**  
-🔗 **LinkedIn:**https://www.linkedin.com/in/hamza-ben-alouane-developpeur-web-alternance/**
+🔗 **LinkedIn:*https://www.linkedin.com/in/hamza-ben-alouane-developpeur-web-alternance/*
 🐙 **GitHub:** https://github.com/ComiccSanss2  
 
 ---
