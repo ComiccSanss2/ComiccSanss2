@@ -21,7 +21,7 @@ I love turning simple ideas into clean, useful, and polished projects.
 ---
 
 ## My Portfolio  
-### 🔗 **https://github.com/ComiccSanss2/Portfolio**  
+### 🔗 **https://comiccsanss2.github.io/Portfolio/**  
 
 
 It includes:
