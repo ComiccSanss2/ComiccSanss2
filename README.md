@@ -25,7 +25,7 @@ I'm a third-year student at **Coding Factory by ESIEE-IT**, specializing in:
 - **Mobile apps (Android / Flutter)**
 - **Web apps (React, JS/TS, Symfony, APIs)**
 - **Game development (Unity / C#)**  
-- **Agile projects — 4-person sprints**
+- **Agile projects 4 person sprints**
 
 I love turning simple ideas into clean, useful, and polished projects.
 
@@ -79,16 +79,16 @@ It includes:
 ##  Notable Projects
 
 ###  **Tileset Manager (WIP)**
-A retro-styled tool to import, slice, preview, and prepare tilesets for Unity.
+A retro styled tool to import, slice, preview, and prepare tilesets for Unity.
 
 ###  **Dex Token**  
-Full-stack crypto dashboard project (+1 year of work).
+Full stack crypto dashboard project (+1 year of work).
 
 ###  **Amiibo NFC Scanner (Android)**  
 Reads Amiibo NFC chips and displays the character data.
 
-###  **Sanic le Lapin Pressé (Unity 2D)**  
-A speedrunner-style 2D game made in Unity.
+###  **MASK.EXE**  
+My participation for the global game jam 2026, Theme: Mask.
 
 ---
 
